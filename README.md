@@ -50,6 +50,8 @@ cargo run --release
 
 📖 **Full Documentation:** [rust/README.md](rust/README.md)
 
+📖 **中文文档：** [rust(chinese)/README.md](rust(chinese)/README.md)
+
 ### Python Bot Quick Start
 
 ```bash
@@ -60,6 +62,8 @@ python -m src.main
 ```
 
 📖 **Full Documentation:** [python/README.md](python/README.md)
+
+📖 **中文文档：** [python(chinese)/README.md](python(chinese)/README.md)
 
 ## 📁 Repository Structure
 
@@ -72,11 +76,24 @@ Polymarket-Copy-Trading-Bot/
 │   ├── README.md           # Rust bot documentation
 │   └── Cargo.toml          # Rust dependencies
 │
+├── rust(chinese)/          # Rust 中文版本
+│   ├── src/                # Source code
+│   ├── docs/               # 中文文档
+│   ├── README.md           # Rust 机器人中文文档
+│   └── Cargo.toml          # Rust dependencies
+│
 ├── python/                  # Python implementation
 │   ├── src/                # Source code
 │   ├── docs/               # Documentation
 │   ├── scripts/            # Utility scripts
 │   ├── README.md           # Python bot documentation
+│   └── requirements.txt    # Python dependencies
+│
+├── python(chinese)/         # Python 中文版本
+│   ├── src/                # Source code
+│   ├── docs/               # 中文文档
+│   ├── scripts/            # Utility scripts
+│   ├── README.md           # Python 机器人中文文档
 │   └── requirements.txt    # Python dependencies
 │
 └── README.md               # This file
