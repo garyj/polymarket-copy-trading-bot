@@ -197,6 +197,10 @@ All transactions are verifiable on [PolygonScan](https://polygonscan.com) using 
 
 ### Rust Bot Proof of Concept
 
+https://github.com/user-attachments/assets/a7dd8c6f-e810-41e5-8565-69f3d75c4d4c
+https://github.com/user-attachments/assets/493afac7-0d4f-4284-a2de-09a4487a05b3
+
+
 The Rust bot has been successfully tested and verified with real transactions on Polygon. Below are documented examples showing the bot copying trades from a target wallet to a copy wallet.
 
 #### Configuration
