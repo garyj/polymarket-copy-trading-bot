@@ -2,7 +2,7 @@
 
 > Automated copy trading bots for Polymarket that mirror trades from successful traders (whales) in real-time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/terauss/Polymarket-Copy-Trading-Bot)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/terausss/Polymarket-Copy-Trading-Bot)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 
 ## 📋 Overview
@@ -359,7 +359,7 @@ Contributions are welcome! Please:
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/terauss/Polymarket-Copy-Trading-Bot](https://github.com/terauss/Polymarket-Copy-Trading-Bot)
+- **GitHub Repository:** [https://github.com/terausss/Polymarket-Copy-Trading-Bot](https://github.com/terausss/Polymarket-Copy-Trading-Bot)
 - **Polymarket:** [https://polymarket.com](https://polymarket.com)
 - **Polymarket Leaderboard:** [https://polymarket.com/leaderboard](https://polymarket.com/leaderboard)
 - **Predictfolio:** [https://predictfolio.com](https://predictfolio.com)
