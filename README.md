@@ -197,7 +197,9 @@ All transactions are verifiable on [PolygonScan](https://polygonscan.com) using 
 
 ### Rust Bot Proof of Concept
 
+#### Rust Copy Trading Bot1
 https://github.com/user-attachments/assets/a7dd8c6f-e810-41e5-8565-69f3d75c4d4c
+#### Rust Copy Trading Bot2
 https://github.com/user-attachments/assets/493afac7-0d4f-4284-a2de-09a4487a05b3
 
 
